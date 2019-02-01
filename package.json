@@ -2,8 +2,14 @@
   "name": "vim-hybrid-theme",
   "displayName": "Vim Hybrid Theme",
   "description": "Theme in spirit of w0ng's Vim Hybrid ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "shanejarvie",
+  "repository": {
+    "url": "https://github.com/sjarvie/vim-hybrid-vscode-theme"
+  },
+  "author": {
+    "name": "Shane Jarvie"
+  },
   "engines": {
     "vscode": "^1.30.0"
   },
