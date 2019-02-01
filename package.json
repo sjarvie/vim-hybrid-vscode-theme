@@ -1,0 +1,22 @@
+{
+  "name": "vim-hybrid-theme",
+  "displayName": "Vim Hybrid Theme",
+  "description": "Theme in spirit of w0ng's Vim Hybrid ",
+  "version": "0.0.1",
+  "publisher": "shanejarvie",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vim Hybrid Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vim Hybrid-color-theme.json"
+      }
+    ]
+  }
+}
