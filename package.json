@@ -1,8 +1,9 @@
 {
-  "name": "vim-hybrid-theme",
-  "displayName": "Vim Hybrid Theme",
-  "description": "Theme in spirit of w0ng's Vim Hybrid ",
-  "version": "0.0.4",
+  "name": "hybrid-theme",
+  "displayName": "Hybrid Theme",
+  "description": "A Hybrid Color Theme ",
+  "version": "0.0.5",
+  "icon": "icon.png",
   "publisher": "shanejarvie",
   "repository": {
     "url": "https://github.com/sjarvie/vim-hybrid-vscode-theme"
@@ -19,9 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vim Hybrid Theme",
+        "label": "Hybrid Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Vim Hybrid-color-theme.json"
+        "path": "./themes/Hybrid-color-theme.json"
       }
     ]
   }
