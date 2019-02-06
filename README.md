@@ -1,4 +1,4 @@
-# Hybrid Vim
+# Vim Hybrid
 
 A dark colour scheme inspired by w0ng's Vim-Hybrid that combines the:
 
