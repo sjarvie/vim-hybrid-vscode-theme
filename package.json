@@ -1,8 +1,8 @@
 {
   "name": "hybrid-theme",
-  "displayName": "Hybrid Theme",
+  "displayName": "Hybrid",
   "description": "A Hybrid Color Theme ",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "icon.png",
   "publisher": "shanejarvie",
   "repository": {
@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hybrid Theme",
+        "label": "Hybrid",
         "uiTheme": "vs-dark",
         "path": "./themes/Hybrid-color-theme.json"
       }
